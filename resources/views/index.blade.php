@@ -418,8 +418,9 @@
                     <input type="email" name="email" placeholder="Email" required>
                   </div>
                     <textarea id="message" name="message" placeholder="Your Message" rows="4" required></textarea>
+                    git remote add origin https://github.com/vinthkumar/Resumeprojects.git
 
-                    <button type="submit">Send</button>
+                    <button type="submit">Send Message</button>
                 </form>
             </div>
         </div>
